@@ -1,10 +1,16 @@
 _repo: Memoirs-of-the-Generals-Commodores-and-other-Commanders-who-distinguished-themselves-in-the-A__50377
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50377-h/images/cover.jpg
 creator:
   author:
     agent_name: Wyatt, Thomas
     gutenberg_agent_id: '45865'
     url: http://www.gutenberg.org/2009/agents/45865
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50377#Memoirs-of-the-Generals-Commodores-and-other-Commanders-who-distinguished-themselves-in-the-A_
 gutenberg_issued: '2015-11-03'
 gutenberg_type: Text
 identifiers:
