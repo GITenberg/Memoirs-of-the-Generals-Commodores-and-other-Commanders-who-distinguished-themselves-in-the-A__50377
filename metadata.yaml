@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Memoirs of the Generals, Commodores and other Commanders, who distinguished
   themselves in the American army and navy during the wars of the Revolution and 1812,
   and who were presented with medals by Congress for their gallant services
